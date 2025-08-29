@@ -27,7 +27,7 @@
                     look-at="[gps-camera]"
                     animation-mixer="loop: repeat"
                     gltf-model="#animated-asset"
-                    scale="0.05167223267673702 0.05167223267673702 0.05167223267673702"
+                    scale="1 1 1"
                     gps-entity-place="latitude: 39.78207417788965; longitude: 2.7027901913970713;"
                 ></a-entity>
 
